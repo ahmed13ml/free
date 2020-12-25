@@ -1,8 +1,4 @@
-echo "# free" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ahmed13ml/free.git
-git push -u origin main
-                
+#EXTM3U
+#EXTINF:-1 Geo news
+https://youtu.be/sOdRPZwcxOw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="",RTVA
